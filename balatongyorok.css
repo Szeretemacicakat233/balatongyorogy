@@ -1,0 +1,55 @@
+body{
+    background-image:url(back.jpg);
+}
+#torzs{
+    text-align: center;
+    width: 1000px;
+}
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background-image: url(panorama.jpg);
+    background-position: 0.1px;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+h1{
+    text-align: left;
+    padding: 20px;
+    margin-left: 10px;
+}
+#headerkep{
+    width: 180px;
+    padding: 10px 600px
+    
+}
+#headerszoveg{
+    text-align: left;
+    font-weight: bold;
+}
+#elsokeret{
+    width: 400px;
+    float: left;
+    background-color: #5B9CEA;
+    text-align: left;
+    padding: 10px;
+}
+#masodikkeret{
+    width: 400px;
+    background-color: #5B9CEA;
+float: right;
+text-align: left;
+padding: 10px;
+}
+table{
+    background-color: #B0D1F1;
+    text-align: center;
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+th{
+    border: 2px black solid;
+}
+td{
+    border: 2px black solid;
+}
